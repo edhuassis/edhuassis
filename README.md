@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 - 📫 Você me acha através do e-mail **edhuassis@gmail.com**
 
-- Saiba mais sobre minhas experiência [www.linkedin.com/in/eduardo-f-de-assis-128b48b9](www.linkedin.com/in/eduardo-f-de-assis-128b48b9)
+- Saiba mais sobre minhas experiência [www.linkedin.com/in/eduardo-f-de-assis-128b48b9](https://www.linkedin.com/in/eduardo-f-de-assis-128b48b9/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

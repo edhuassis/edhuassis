@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Ola 👋, Eu sou Eduardo Assis</h1>
 <h3 align="center">Data Science e Analytics | Python | Machine Learning | IA</h3>
 
-- 🌱 Atualmente estou estudando **Data Science, Python e LLMs**
+- 🌱 Atualmente estou estudando **Data Science, Python, SQL e LLMs**
 
 - 📫 Você me acha através do e-mail **edhuassis@gmail.com**
 
